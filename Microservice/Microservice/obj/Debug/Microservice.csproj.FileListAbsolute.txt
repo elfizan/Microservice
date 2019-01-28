@@ -1,0 +1,16 @@
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.exe.config
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.exe
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.pdb
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\EntityFramework.dll
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.dll
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\EntityFramework.xml
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.xml
+E:\MII\Project Coding\Microservice\Microservice\obj\Debug\Microservice.csprojResolveAssemblyReference.cache
+E:\MII\Project Coding\Microservice\Microservice\obj\Debug\Microservice.exe
+E:\MII\Project Coding\Microservice\Microservice\obj\Debug\Microservice.pdb
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.BussinessLogic.exe
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.Data.Access.exe
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.Common.exe
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.BussinessLogic.pdb
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.Data.Access.pdb
+E:\MII\Project Coding\Microservice\Microservice\bin\Debug\Microservice.Common.pdb
